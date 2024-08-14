@@ -1,0 +1,21 @@
+.footer{
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;  
+    border-top: 3px solid red;
+
+}
+
+.footer h1{
+    font-size: 1.5rem;
+    color: white;
+    margin-right: 5rem;
+}
+
+.footer p{
+    font-size: 1rem;
+    color: white;
+    margin-left: 1.2rem;
+}
